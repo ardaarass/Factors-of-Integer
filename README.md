@@ -8,7 +8,7 @@ a)Bölenlerinin bulunmasını istediğiniz sayı pozitif bir tamsayı olmalıdı
 
 b)Hangi bölenden itibaren görüntülenmesini istediğiniz sorulduğunda seçtiğiniz sayı pozitif bir tamsayı olmalıdır.
 
-Nasıl Çalıştırılır?
+Nasıl Çalıştırılır?:
 
 1)Bölenlerinin bulunmasını istediğiniz sayıyı giriniz.
 
