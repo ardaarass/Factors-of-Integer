@@ -1,6 +1,6 @@
 Program Hakkında:
 
-Bu program aşağıda belirtilen kurallar dahilinde kullanıcıdan alınan pozitif bir tamsayının istenilen böleninden itibaren pozitif tamsayı bölenlerini ekranda görümtülemektedir.
+Bu program aşağıda belirtilen kurallar dahilinde kullanıcıdan alınan pozitif bir tamsayının istenilen böleninden itibaren pozitif tamsayı bölenlerini ekranda görüntülemektedir.
 
 Programın Çalışma Şartları:
 
